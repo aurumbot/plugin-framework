@@ -17,7 +17,7 @@ Aurum Plugins should have the following files and directories. (Note that `json/
 
 ### README.md
 
-The README.md should list the names of all the commands defined within the plugin to prevent accidental command overlap.
+The README.md should list the names of all the commands defined within the plugin to prevent accidental command overlap, additional system dependancies, any background processes it may fork off, and details about the plugin itself, of course. For an example please see the `README_EX.md`
 
 ### build
 
